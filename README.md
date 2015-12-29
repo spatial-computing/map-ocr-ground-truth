@@ -1,4 +1,5 @@
 # map-ocr-ground-truth
+
 This repository contains ten historical Ordinance Survey map examples, five historical US map examples, and their respective OCR ground truth.
 
 The map sections used to create the ground truth are stored in the TIFF format in the folder **maps**. The maps with file name starting with 1920 are the Ordinance Survey maps. The others are US historical maps.
