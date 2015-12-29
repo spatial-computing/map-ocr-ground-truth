@@ -2,7 +2,7 @@
 
 This repository contains ten historical Ordinance Survey map examples, five historical US map examples, and their respective OCR ground truth.
 
-The map sections used to create the ground truth are stored in the TIFF format in the folder **maps**. The maps with file name starting with 1920 are the Ordinance Survey maps. The others are US historical maps.
+The map sections used to create the ground truth are stored in the PNG and TIFF format in the folder **maps**. The maps with file name starting with 1920 are the Ordinance Survey maps. The others are US historical maps.
 
 The historical Ordinance Survey maps were retrieved from National Library of Scotland (<http://maps.nls.uk>). The US historical maps were retrieved from Dr. Jerod Weinman's map processing project at Grinnell Coledge (<http://www.cs.grinnell.edu/~weinman/research/maps.shtml>), which were originally archived in the David Rumsey Map Collection (<http://www.davidrumsey.com>).
 
